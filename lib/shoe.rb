@@ -6,4 +6,5 @@ class Shoes
   def brand 
     @end
 end 
+
 end 
