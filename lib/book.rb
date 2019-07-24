@@ -27,6 +27,7 @@ def genre=(genre)
     @genre
   end
 
+
 end
 
 
