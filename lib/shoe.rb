@@ -4,7 +4,7 @@ class Shoes
   end
   
   def brand 
-    @end
+    @brand
 end 
 
 end 
